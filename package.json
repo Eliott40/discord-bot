@@ -1,0 +1,18 @@
+{
+  "name": "soye",
+  "version": "1.0.0",
+  "description": "bot d'eliott",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "node": "^16.10.0"
+  },
+  
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eliott",
+  "license": "ISC"
+  
+}
